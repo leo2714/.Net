@@ -1,0 +1,135 @@
+D:\Project Files\XFProject\control\XLY.Framework.WPFTest\bin\Debug\Util.Controls.WPFTest.exe.config
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Util.Controls.WPFTest.exe.config
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.csprojResolveAssemblyReference.cache
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\MainWindow.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\old\WebImageViewer.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\old\LocalImageViewer.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MVVM.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Webbrowser.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Button.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ComboBox_Date.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_DataGrid.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Image.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ImageViewer.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListBox_MultiCom.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListView.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TabControl.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Test.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TextBox.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Waiting.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Style\Colors.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Style\Default.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\App.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\MainWindow.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\old\WebImageViewer.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\old\LocalImageViewer.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MultCase.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MVVM.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Webbrowser.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Button.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ComboBox_Date.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_DataGrid.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Image.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ImageViewer.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListBox_MultiCom.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListView.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TabControl.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Test.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TextBox.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TreeView.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Waiting.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\App.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest_Content.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest_MarkupCompile.cache
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest_MarkupCompile.lref
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Images\qq.png
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Images\qq1.png
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Images\qq2.png
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Images\logom.png
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Util.Controls.WPFTest.exe
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Util.Controls.WPFTest.pdb
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Effects.dll
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\System.Windows.Interactivity.dll
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Util.Controls.dll
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Util.Controls.pdb
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Effects.xml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MultCase.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TreeView.baml
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.g.resources
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.Properties.Resources.resources
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.csproj.GenerateResource.Cache
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.exe
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.pdb
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\Microsoft.Windows.Shell.dll
+D:\Project Files\XFProject\control\Util.Controls.WPFTest\bin\Debug\System.Utility.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Util.Controls.WPFTest.exe.config
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.exe
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.pdb
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Images\qq.png
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Images\qq1.png
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Images\qq2.png
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Images\logom.png
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Util.Controls.WPFTest.exe
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Util.Controls.WPFTest.pdb
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Effects.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Microsoft.Windows.Shell.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\System.Utility.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\System.Windows.Interactivity.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Util.Controls.dll
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Util.Controls.pdb
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Drawing.xml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\bin\Debug\Microsoft.Expression.Effects.xml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.csprojResolveAssemblyReference.cache
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\MainWindow.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\old\WebImageViewer.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\old\LocalImageViewer.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MVVM.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Webbrowser.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Button.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ComboBox_Date.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_DataGrid.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Image.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ImageViewer.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListBox_MultiCom.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListView.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TabControl.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Test.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TextBox.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Waiting.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Style\Colors.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Style\Default.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\App.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\MainWindow.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\old\WebImageViewer.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\old\LocalImageViewer.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MultCase.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MVVM.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Webbrowser.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Button.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ComboBox_Date.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_DataGrid.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Image.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ImageViewer.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListBox_MultiCom.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_ListView.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TabControl.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Test.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TextBox.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TreeView.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_Waiting.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\App.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest_Content.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest_MarkupCompile.cache
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest_MarkupCompile.lref
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_MultCase.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Page\Page_TreeView.baml
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.g.resources
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.Properties.Resources.resources
+G:\Demo\Util.Controls\Util.Controls.WPFTest\obj\x86\Debug\Util.Controls.WPFTest.csproj.GenerateResource.Cache
